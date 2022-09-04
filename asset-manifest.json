@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-gitthree/static/css/main.073c9b0a.css",
+    "main.js": "/test-gitthree/static/js/main.454c15c8.js",
+    "static/js/787.aa6b9cd5.chunk.js": "/test-gitthree/static/js/787.aa6b9cd5.chunk.js",
+    "static/media/logo.svg": "/test-gitthree/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/test-gitthree/index.html",
+    "main.073c9b0a.css.map": "/test-gitthree/static/css/main.073c9b0a.css.map",
+    "main.454c15c8.js.map": "/test-gitthree/static/js/main.454c15c8.js.map",
+    "787.aa6b9cd5.chunk.js.map": "/test-gitthree/static/js/787.aa6b9cd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.454c15c8.js"
+  ]
+}
